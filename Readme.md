@@ -11,5 +11,9 @@ If you use linux:
 If you use Windows:
  - Click 2 times on `WebServer.exe`
 
+# Configuration:
+- WS:
+  - `Port` - The WebServer Port (http://localhost:3000/ default)
+  - `RenderingFolder` - main folder of .html files
 
 **Info**: If you don't have install `Go Lang` you can create WebServer too
