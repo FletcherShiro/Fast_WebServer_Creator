@@ -2,6 +2,7 @@
 
 Description:
 - Fast creator WebServer, on you start `WebServer.exe` or `./WebServer` if don't have `config.json`, `templates` directory or `templates/index.html`, `templates/404.html` not found - it's created automaticly. When creating done, you can work with `main.go` source code
+
 Info:
 - If you don't have install `Go Lang` you can create WebServer too
 
